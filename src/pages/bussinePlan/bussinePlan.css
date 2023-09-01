@@ -1,0 +1,33 @@
+.main-container{
+    text-align: center;
+    margin: 20px 0px;
+    min-height: 100vh;
+}
+.filter-btn{
+    border: none;
+    color: var(--main-color);
+    cursor: pointer;
+    font-size: 15px;
+}
+.filter-btn:hover::after{
+    content: " ";
+    padding: 2px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    background-color: var(--primary-color);
+}
+.btn-container{
+    max-height: 20px;
+}
+.price{
+    text-align: center;
+    font-size:20px;
+}
+.desc{
+    font-size: 15px;
+    text-align: left;
+    padding:15px;
+    font-weight: 100;
+    color:beige;
+}

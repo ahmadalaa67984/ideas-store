@@ -1,0 +1,43 @@
+
+.review{
+    text-align: center;
+    margin-top: 30px;
+    padding: 40px 0px;
+    box-sizing: border-box;
+}
+.img-container{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+
+}
+.person-img {
+    width: 100%;
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    position: relative;
+}
+.prev-btn,
+.next-btn {
+    color: var(--primary-color);
+    font-size: 2rem;
+    background: transparent;
+    border-color: transparent;
+    margin: 0 0.5rem;
+    cursor: pointer;
+}
+.info{
+    width: 60%;
+    margin: 10px auto;
+    font-size: 1rem;
+    color: aliceblue;
+}
+.author{
+    margin: 10px;
+    color:var(--primary-color);
+    font-size: 20px;
+}
