@@ -65,8 +65,8 @@ export const reviews = [
 export const items = [
   {
     id: 1,
-    title: "buttermilk pancakes",
-    category: "breakfast",
+    title: "ticket Gallary",
+    category: "Art",
     price: 15.99,
     img: "https://images.unsplash.com/photo-1509343256512-d77a5cb3791b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
@@ -74,8 +74,8 @@ export const items = [
   },
   {
     id: 2,
-    title: "diner double",
-    category: "lunch",
+    title: "Fast grow",
+    category: "investment",
     price: 13.99,
     img: "https://images.unsplash.com/photo-1525498128493-380d1990a112?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
@@ -83,8 +83,8 @@ export const items = [
   },
   {
     id: 3,
-    title: "godzilla milkshake",
-    category: "shakes",
+    title: "Bascktball playground",
+    category: "Archtict",
     price: 6.99,
     img: "https://images.unsplash.com/photo-1502014822147-1aedfb0676e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
@@ -92,8 +92,8 @@ export const items = [
   },
   {
     id: 4,
-    title: "country delight",
-    category: "breakfast",
+    title: "country disch",
+    category: "Art",
     price: 20.99,
     img: "https://images.unsplash.com/photo-1657299156594-50426d5125a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
@@ -101,8 +101,8 @@ export const items = [
   },
   {
     id: 5,
-    title: "egg attack",
-    category: "lunch",
+    title: "Easy board",
+    category: "Industry",
     price: 22.99,
     img: "https://images.unsplash.com/photo-1592659762303-90081d34b277?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80 ",
     desc: ` It has survived not only five centuries, but also the leap into electronic typesetting, `,
@@ -110,8 +110,8 @@ export const items = [
   },
   {
     id: 6,
-    title: "oreo dream",
-    category: "shakes",
+    title: "Robot Arm",
+    category: "Industry",
     price: 18.99,
     img: "https://images.unsplash.com/photo-1600466886092-f76fabd39a61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1420&q=80",
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
@@ -119,8 +119,8 @@ export const items = [
   },
   {
     id: 7,
-    title: "bacon overflow",
-    category: "breakfast",
+    title: "Main city",
+    category: "Archtict",
     price: 8.99,
     img: "https://images.unsplash.com/photo-1433840496881-cbd845929862?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
@@ -128,8 +128,8 @@ export const items = [
   },
   {
     id: 8,
-    title: "american classic",
-    category: "lunch",
+    title: "Hack in travels",
+    category: "investment",
     price: 12.99,
     img: "https://images.unsplash.com/photo-1568849676085-51415703900f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
     desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
@@ -137,8 +137,8 @@ export const items = [
   },
   {
     id: 9,
-    title: "quarantine buddy",
-    category: "shakes",
+    title: "colorful view",
+    category: "Art",
     price: 16.99,
     img: "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
